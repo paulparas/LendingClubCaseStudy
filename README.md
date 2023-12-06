@@ -2,7 +2,7 @@
 Lending Club Case Study.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Problem Statement](#problem-statement)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
