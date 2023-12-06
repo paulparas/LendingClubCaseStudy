@@ -48,10 +48,10 @@ Python3 and below pyhton libraries -
 - Taken loan for Debt Consolidation purpose is highest number of defaulter where taken loan for renewable energy has least number of defaulter.
 - Interest rate between 10-15% have highest number of defaulter where highest interest rate loan have less defaulters.
 - 36 months loan have more defaulter than 60 months.
-- California state has highest number of defaulter. Interestingly major cities like Florida, Texas and New York have highest defaulters.
+- California state has highest number of defaulter.
 - Not verified have highest number of loan defaulters but verified have also large defaulters.
 
- ### Multivariant
+ ### Multivariate
 
 - Nearest 200k annual income and purpose is Home improvement and credit card is highest number of defaulters.
 - Nearest 200k annual income and Morgage is highest number of defaulters.
@@ -59,6 +59,14 @@ Python3 and below pyhton libraries -
 - Loan amount is 6k-8k and employee length 7 year have number of defaulters.
 - Between dti 10-15 and grade A to D have highest defaulters.
 - Wallmart employee is highest number of defaulter
+
+## Recommendations
+- Applications from lower grades and with public record bankruptcies should not be approved.
+- Applications where grades are lower and interest rate is high tend to default more.
+- Debt Consolidation and Small business loans are high defaulters and lending club should be careful in granting loans for these purpose.
+- Applications from California must be scrutinized more.
+- Applicants with higher annual income but with low debt to income ratio should be ideal candidates.
+
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
